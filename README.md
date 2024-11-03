@@ -1,6 +1,6 @@
 
 
-## Build a basic version of Medium-Blog
+## Build a Wallet app - Veepay
 Building a platform where people can
 
 - Sign up / Sign in
